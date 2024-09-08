@@ -2,6 +2,8 @@
 
 Este é o repositório para o projeto desenvolvido durante as aulas de HTML e CSS: trabalhando com responsividade e publicação de projetos. O projeto envolve o desenvolvimento de uma aplicação web utilizando HTML e CSS.
 
+![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+
 ## Descrição
 
 O projeto consiste em uma página Web simples com página incial e uma página Sobre Mim.
