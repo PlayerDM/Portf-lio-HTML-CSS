@@ -175,6 +175,7 @@ body {
     }
 
     .apresentacao__links__botao {
-        font-size: 100%;
+        font-size: auto;
+        padding: 10%;
     }
 }
